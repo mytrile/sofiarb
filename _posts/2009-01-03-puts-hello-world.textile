@@ -1,0 +1,17 @@
+---
+layout: post
+title: puts 'Hello, World !'
+---
+
+h1. {{ page.title }}
+
+p(meta). 03 Яну 2009 - от Митко Костов
+
+Първия пост на Софийската Руби Бригада. Всеки, който иска да се присъедини :
+
+Google User Group – <a href="http://groups.google.com/group/soruby?hl=bg" target="_blank">http://groups.google.com/group/soruby?hl=en</a>
+
+Twitter – <a href="http://twitter.com/soruby" target="blank">http://twitter.com/soruby</a>
+
+Mail – contact [at] soruby.org
+

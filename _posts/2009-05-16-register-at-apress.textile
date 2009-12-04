@@ -1,0 +1,10 @@
+---
+layout: post
+title: Регистрация в програмата на Apress User Group
+---
+
+h1. {{ page.title }}
+
+p(meta). 16 May 2009 - by Mitko Kostov
+
+Бригадата е регистрирана в потребителската програма на Apress. Ако има желаещи за покупка на книги с остъпка, моля пишете на contact at sofiarb.org
